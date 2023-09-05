@@ -1100,6 +1100,822 @@
         ]
     },
     {
+    "numeroSet": "6",
+    "nomeSet": "Neo Discovery",
+    "annoUscita": "2001",
+    "figurine": [
+        {
+            "numero": "196",
+            "progressivo": "1/75",
+            "nome": "Espeon",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Morso",
+                "Psichico"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/9/9a/EspeonNeoDiscovery1.jpg/180px-EspeonNeoDiscovery1.jpg"
+
+        },
+        {
+            "numero": "205",
+            "progressivo": "2/75",
+            "nome": "Forretress",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Punte",
+                "Rapigiro"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/8/86/ForretressNeoDiscovery2.jpg/180px-ForretressNeoDiscovery2.jpg"
+
+        },
+        {
+            "numero": "237",
+            "progressivo": "3/75",
+            "nome": "Hitmontop",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Punte",
+                "Rapigiro"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/2/2b/HitmontopNeoDiscovery3.jpg/180px-HitmontopNeoDiscovery3.jpg"
+
+        },
+        {
+            "numero": "229",
+            "progressivo": "4/75",
+            "nome": "Houndoom",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Sgranocchio",
+                "Lanciafiamme"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/0/04/HoundoomNeoDiscovery4.jpg/180px-HoundoomNeoDiscovery4.jpg"
+
+        },
+        {
+            "numero": "228",
+            "progressivo": "5/75",
+            "nome": "Houndour",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Smog",
+                "Raduna Fuoco"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/3/3c/HoundourNeoDiscovery5.jpg/180px-HoundourNeoDiscovery5.jpg"
+
+        },
+        {
+            "numero": "141",
+            "progressivo": "6/75",
+            "nome": "Kabutops",
+            "stadio_evolutivo": "Fase 2",
+            "abilita": [
+                "Lacerazione",
+                "Idrotrancia"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/c/ce/KabutopsNeoDiscovery6.jpg/180px-KabutopsNeoDiscovery6.jpg"
+
+        },
+        {
+            "numero": "081",
+            "progressivo": "7/75",
+            "nome": "Magnemite",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Localizza",
+                "Falcecannone"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/4/4c/MagnemiteNeoDiscovery7.jpg/180px-MagnemiteNeoDiscovery7.jpg"
+
+        },
+        {
+            "numero": "186",
+            "progressivo": "8/75",
+            "nome": "Politoed",
+            "stadio_evolutivo": "Fase 2",
+            "abilita": [
+                "Gracidio",
+                "Doppiasberla"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/0/0f/YanmaNeoDiscovery17.jpg/180px-PolitoedNeoDiscovery8.jpg"
+
+        },
+        {
+            "numero": "062",
+            "progressivo": "9/75",
+            "nome": "Poliwrath",
+            "stadio_evolutivo": "Fase 2",
+            "abilita": [
+                "Pugno Rotante",
+                "Sottomissione"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/3/3c/PoliwrathNeoDiscovery9.jpg/180px-PoliwrathNeoDiscovery9.jpg"
+
+        },
+        {
+            "numero": "212",
+            "progressivo": "10/75",
+            "nome": "Scizor",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Falsofinale",
+                "Doppio-Artiglio"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/f/f3/ScizorNeoDiscovery10.jpg/180px-ScizorNeoDiscovery10.jpg"
+
+        },
+        {
+            "numero": "235",
+            "progressivo": "11/75",
+            "nome": "Smeargle",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Schizzo",
+            ],
+            "url": ""
+
+        },
+        {
+            "numero": "248",
+            "progressivo": "12/75",
+            "nome": "Tyranitar",
+            "stadio_evolutivo": "Fase 2",
+            "abilita": [
+                "Schianto",
+                "Spallata"
+            ],
+            "url": ""
+
+        },
+        {
+            "numero": "197",
+            "progressivo": "13/75",
+            "nome": "Umbreon",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Morso",
+                "Finta"
+            ],
+						"url": ""
+        },
+        {
+            "numero": "201",
+            "progressivo": "14/75",
+            "nome": "Unnown A",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Introforza"
+            ],
+						"url": "https://media.pokemoncentral.it/wiki/thumb/2/21/UnownANeoDiscovery14.jpg/180px-UnownANeoDiscovery14.jpg"
+        },
+        {
+            "numero": "217",
+            "progressivo": "15/75",
+            "nome": "Ursaring",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Maglio",
+                "Doppio Lazzo"
+            ],
+						"url": "https://media.pokemoncentral.it/wiki/thumb/d/d7/UrsaringNeoDiscovery15.jpg/180px-UrsaringNeoDiscovery15.jpg"
+        },
+        {
+            "numero": "202",
+            "progressivo": "16/75",
+            "nome": "Wobbuffet",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Contatore",
+            ],
+						"url": "https://media.pokemoncentral.it/wiki/thumb/8/88/WobbuffetNeoDiscovery16.jpg/180px-WobbuffetNeoDiscovery16.jpg"
+        },
+        {
+            "numero": "193",
+            "progressivo": "17/75",
+            "nome": "Yanma",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Onda d'Urto",
+                "Comete"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/0/0f/YanmaNeoDiscovery17.jpg/180px-YanmaNeoDiscovery17.jpg"
+        },
+        {
+            "numero": "015",
+            "progressivo": "18/75",
+            "nome": "Beedrill",
+            "stadio_evolutivo": "Fase 2",
+            "abilita": [
+                "Triplo Veleno",
+                "Missilspillo"
+            ],
+            "url": ""
+        },
+        {
+            "numero": "012",
+            "progressivo": "19/75",
+            "nome": "Butterfree",
+            "stadio_evolutivo": "Fase 2",
+            "abilita": [
+                "Polvere Magica",
+                "Iper-Ritorno"
+            ],
+            "url": ""
+        },
+        {
+            "numero": "196",
+            "progressivo": "20/75",
+            "nome": "Espeon",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Attacco Rapido",
+                "Psicoraggio"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/d/db/EspeonNeoDiscovery20.jpg/180px-EspeonNeoDiscovery20.jpg"
+        },
+        {
+            "numero": "205",
+            "progressivo": "21/75",
+            "nome": "Forretress",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Punte",
+                "Rapigiro"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/8/86/ForretressNeoDiscovery2.jpg/180px-ForretressNeoDiscovery2.jpg"
+        },
+        {
+            "numero": "237",
+            "progressivo": "22/75",
+            "nome": "Hitmontop",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Individua",
+                "Triplocalcio"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/2/2b/HitmontopNeoDiscovery3.jpg/180px-HitmontopNeoDiscovery3.jpg"
+        },
+        {
+            "numero": "229",
+            "progressivo": "23/75",
+            "nome": "Houndoom",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Sgranocchio",
+                "Lanciafiamme"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/0/04/HoundoomNeoDiscovery4.jpg/180px-HoundoomNeoDiscovery4.jpg"
+        },
+        {
+            "numero": "228",
+            "progressivo": "24/75",
+            "nome": "Houndour",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Smog",
+                "Raduna Fuoco"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/3/3c/HoundourNeoDiscovery5.jpg/180px-HoundourNeoDiscovery5.jpg"
+        },
+        {
+            "numero": "141",
+            "progressivo": "25/75",
+            "nome": "Kabutops",
+            "stadio_evolutivo": "Fase 2",
+            "abilita": [
+                "Lacerazione",
+                "Idrotrancia"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/c/ce/KabutopsNeoDiscovery6.jpg/180px-KabutopsNeoDiscovery6.jpg"
+        },
+        {
+            "numero": "081",
+            "progressivo": "26/75",
+            "nome": "Magnemite",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Localizza",
+                "Falcecannone"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/4/4c/MagnemiteNeoDiscovery7.jpg/180px-MagnemiteNeoDiscovery7.jpg"
+        },
+        {
+            "numero": "186",
+            "progressivo": "27/75",
+            "nome": "Politoed",
+            "stadio_evolutivo": "Fase 2",
+            "abilita": [
+                "Gracidio",
+                "Doppiasberla"
+            ],
+            "url": ""
+        },
+        {
+            "numero": "062",
+            "progressivo": "28/75",
+            "nome": "Poliwrath",
+            "stadio_evolutivo": "Fase 2",
+            "abilita": [
+                "Pugno Rotante",
+                "Sottomissione"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/3/3c/PoliwrathNeoDiscovery9.jpg/180px-PoliwrathNeoDiscovery9.jpg"
+        },
+        {
+            "numero": "212",
+            "progressivo": "29/75",
+            "nome": "Scizor",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Falsofinale",
+                "Doppio-Artiglio"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/f/f3/ScizorNeoDiscovery10.jpg/180px-ScizorNeoDiscovery10.jpg"
+        },
+        {
+            "numero": "235",
+            "progressivo": "30/75",
+            "nome": "Smeargle",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Schizzo",
+                "Idrotrancia"
+            ],
+            "url": ""
+        },
+        {
+            "numero": "248",
+            "progressivo": "31/75",
+            "nome": "Tyranitar",
+            "stadio_evolutivo": "Fase 2",
+            "abilita": [
+                "Schianto",
+								"Spallata"
+            ],
+            "url": ""
+        },
+        {
+            "numero": "197",
+            "progressivo": "32/75",
+            "nome": "Umbreon",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Attacco Rapido",
+                "Inseguimento"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/1/12/UmbreonNeoDiscovery32.jpg/180px-UmbreonNeoDiscovery32.jpg"
+        },
+        {
+            "numero": "201",
+            "progressivo": "33/75",
+            "nome": "Unown A",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Introforza"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/2/21/UnownANeoDiscovery14.jpg/180px-UnownANeoDiscovery14.jpg"
+        },
+        {
+            "numero": "234",
+            "progressivo": "34/75",
+            "nome": "Ursaring",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Maglio",
+                "Doppio Lazzo"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/d/d7/UrsaringNeoDiscovery15.jpg/180px-UrsaringNeoDiscovery15.jpg"
+        },
+        {
+            "numero": "202",
+            "progressivo": "35/75",
+            "nome": "Wobbuffet",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Contatore"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/8/88/WobbuffetNeoDiscovery16.jpg/180px-WobbuffetNeoDiscovery16.jpg"
+        },
+        {
+            "numero": "193",
+            "progressivo": "36/75",
+            "nome": "Yanma",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Onda d'Urto",
+                "Comete"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/0/0f/YanmaNeoDiscovery17.jpg/180px-YanmaNeoDiscovery17.jpg"
+        },
+        {
+            "numero": "222",
+            "progressivo": "37/75",
+            "nome": "Corsola",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Ripresa",
+                "Sparalance"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/e/e9/CorsolaNeoDiscovery37.jpg/180px-CorsolaNeoDiscovery37.jpg"
+        },
+        {
+            "numero": "133",
+            "progressivo": "38/75",
+            "nome": "Eevee",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Evoluzione Energetica",
+                "Calcio Esplosivo"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/1/18/EeveeNeoDiscovery38.jpg/180px-EeveeNeoDiscovery38.jpg"
+        },
+        {
+            "numero": "228",
+            "progressivo": "39/75",
+            "nome": "Houndour",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Morso",
+                "Saccheggio"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/3/37/HoundourNeoDiscovery39.jpg/180px-HoundourNeoDiscovery39.jpg"
+        },
+        {
+            "numero": "404",
+            "progressivo": "40/75",
+            "nome": "Igglybuff",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Sguardo Fisso"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/6/6d/IgglybuffNeoDiscovery40.jpg/180px-IgglybuffNeoDiscovery40.jpg"
+        },
+        {
+            "numero": "014",
+            "progressivo": "41/75",
+            "nome": "Kakuna",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Secrezione Velenosa"
+            ],
+            "url": ""
+        },
+        {
+            "numero": "011",
+            "progressivo": "42/75",
+            "nome": "Metapod",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Rafforzatore",
+                "Schiusa"
+            ],
+            "url": ""
+        },
+        {
+            "numero": "139",
+            "progressivo": "43/75",
+            "nome": "Omastar",
+            "stadio_evolutivo": "Fase 2",
+            "abilita": [
+                "Stritolamento",
+                "Guscio Pungente"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/2/29/OmastarNeoDiscovery43.jpg/180px-OmastarNeoDiscovery43.jpg"
+        },
+        {
+            "numero": "061",
+            "progressivo": "44/75",
+            "nome": "Poliwhirl",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Panciamburo",
+                "Pistolacqua"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/0/09/PoliwhirlNeoDiscovery44.jpg/180px-PoliwhirlNeoDiscovery44.jpg"
+        },
+        {
+            "numero": "247",
+            "progressivo": "45/75",
+            "nome": "Pupitar",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Capocciata",
+                "Polvere Infernale"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/c/cd/PupitarNeoDiscovery45.jpg/180px-PupitarNeoDiscovery45.jpg"
+        },
+        {
+            "numero": "123",
+            "progressivo": "46/75",
+            "nome": "Scyther",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Tagliofuria"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/b/bf/ScytherNeoDiscovery46.jpg/180px-ScytherNeoDiscovery46.jpg"
+        },
+        {
+            "numero": "201",
+            "progressivo": "47/75",
+            "nome": "Unown D",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Introforza"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/7/72/UnownDNeoDiscovery47.jpg/180px-UnownDNeoDiscovery47.jpg"
+        },
+        {
+            "numero": "201",
+            "progressivo": "48/75",
+            "nome": "Unown F",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Introforza"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/0/0f/YanmaNeoDiscovery48.jpg/180px-YanmaNeoDiscovery48.jpg"
+        },
+        {
+            "numero": "201",
+            "progressivo": "49/75",
+            "nome": "Unown M",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Introforza"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/b/bc/UnownMNeoDiscovery49.jpg/180px-UnownMNeoDiscovery49.jpg"
+        },
+        {
+            "numero": "201",
+            "progressivo": "50/75",
+            "nome": "Unown N",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Introforza"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/c/c6/UnownNNeoDiscovery50.jpg/180px-UnownNNeoDiscovery50.jpg"
+        },
+        {
+            "numero": "201",
+            "progressivo": "51/75",
+            "nome": "Unown U",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Introforza"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/f/fe/UnownUNeoDiscovery51.jpg/180px-UnownUNeoDiscovery51.jpg"
+        },
+        {
+            "numero": "178",
+            "progressivo": "52/75",
+            "nome": "Xatu",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Ciclo d'Energia",
+                "Superpsico"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/e/e0/XatuNeoDiscovery52.jpg/180px-XatuNeoDiscovery52.jpg"
+        },
+        {
+            "numero": "010",
+            "progressivo": "53/75",
+            "nome": "Caterpie",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Effettazione"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/f/fe/UnownUNeoDiscovery53.jpg/180px-UnownUNeoDiscovery53.jpg"
+        },
+        {
+            "numero": "206",
+            "progressivo": "54/75",
+            "nome": "Dunsparce",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Bagliore"
+            ],
+            "url": "Base"
+        },
+        {
+            "numero": "187",
+            "progressivo": "55/75",
+            "nome": "Hoppip",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Rollazione"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/d/db/HoppipNeoDiscovery55.jpg/180px-HoppipNeoDiscovery55.jpg"
+        },
+        {
+            "numero": "140",
+            "progressivo": "56/75",
+            "nome": "Kabuto",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Resuscita Amici",
+                "Cooperazione"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/b/bd/KabutoNeoDiscovery56.jpg/180px-KabutoNeoDiscovery56.jpg"
+        },
+        {
+            "numero": "246",
+            "progressivo": "57/75",
+            "nome": "Larvitar",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Morso"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/b/b3/LarvitarNeoDiscovery57.jpg/180px-LarvitarNeoDiscovery57.jpg"
+        },
+        {
+            "numero": "179",
+            "progressivo": "58/75",
+            "nome": "Mareep",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Scoppiotuono"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/c/cb/MareepNeoDiscovery58.jpg/180px-MareepNeoDiscovery58.jpg"
+        },
+        {
+            "numero": "177",
+            "progressivo": "59/75",
+            "nome": "Natu",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Stordiraggio"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/f/f0/NatuNeoDiscovery59.jpg/180px-NatuNeoDiscovery59.jpg"
+        },
+        {
+            "numero": "138",
+            "progressivo": "60/75",
+            "nome": "Omanyte",
+            "stadio_evolutivo": "Fase 1",
+            "abilita": [
+                "Rianima Fossili",
+                "Legatutto"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/5/5a/OmanyteNeoDiscovery60.jpg/180px-OmanyteNeoDiscovery60.jpg"
+        },
+        {
+            "numero": "204",
+            "progressivo": "61/75",
+            "nome": "Pineco",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Scoppio"
+            ],
+            "url": ""
+        },
+        {
+            "numero": "060",
+            "progressivo": "62/75",
+            "nome": "Poliwag",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Rotolamento",
+                "Ipnosi"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/0/0a/PoliwagNeoDiscovery62.jpg/180px-PoliwagNeoDiscovery62.jpg"
+        },
+        {
+            "numero": "161",
+            "progressivo": "63/75",
+            "nome": "Sentret",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Esplorazione",
+                "Azione"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/b/be/SentretNeoDiscovery63.jpg/180px-SentretNeoDiscovery63.jpg"
+        },
+        {
+            "numero": "167",
+            "progressivo": "64/75",
+            "nome": "Spinarak",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Velenospina"
+            ],
+            "url": ""
+        },
+        {
+            "numero": "216",
+            "progressivo": "65/75",
+            "nome": "Teddiursa",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Graffio",
+                "Siesta"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/1/18/TeddiursaNeoDiscovery65.jpg/180px-TeddiursaNeoDiscovery65.jpg"
+        },
+        {
+            "numero": "236",
+            "progressivo": "66/75",
+            "nome": "Tyrogue",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Pugno Esplosivo"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/d/d2/TyrogueNeoDiscovery66.jpg/180px-TyrogueNeoDiscovery66.jpg"
+        },
+        {
+            "numero": "201",
+            "progressivo": "67/75",
+            "nome": "Unown E",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Introforza"
+            ],
+            "url": ""
+        },
+        {
+            "numero": "201",
+            "progressivo": "68/75",
+            "nome": "Unown I",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Introforza"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/7/72/UnownINeoDiscovery68.jpg/180px-UnownINeoDiscovery68.jpg"
+        },
+        {
+            "numero": "201",
+            "progressivo": "69/75",
+            "nome": "Unown O",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                " Observe",
+                "Introforza"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/7/76/UnownONeoDiscovery70.jpg/180px-UnownONeoDiscovery70.jpg"
+        },
+        {
+            "numero": "013",
+            "progressivo": "70/75",
+            "nome": "Weedle",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Stilettata"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/1/1a/WeedleNeoDiscovery70.jpg/180px-WeedleNeoDiscovery70.jpg"
+        },
+        {
+            "numero": "194",
+            "progressivo": "71/75",
+            "nome": "Wooper",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Muco",
+                "Codasberla"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/e/e2/WooperNeoDiscovery71.jpg/180px-WooperNeoDiscovery71.jpg"
+        },
+        
+        {
+            "numero": "0",
+            "progressivo": "72/75",
+            "nome": "Uovo Fossile",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Nessuna"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/0/04/UovoFossileNeoDiscovery72.jpg/180px-UovoFossileNeoDiscovery72.jpg"
+        },
+        {
+            "numero": "0",
+            "progressivo": "73/75",
+            "nome": "Iper Getto d'Involuzione",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Nessuna"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/6/68/IperGettod%27InvoluzioneNeoDiscovery73.jpg/180px-IperGettod%27InvoluzioneNeoDiscovery73.jpg"
+        },
+				{
+					"numero": "0",
+					"progressivo": "74/75",
+					"nome": "Muro Pericolante",
+					"stadio_evolutivo": "Base",
+					"abilita": [
+							"Nessuna"
+					],
+					"url": "https://media.pokemoncentral.it/wiki/thumb/8/83/MuroPericolanteNeoDiscovery74.jpg/180px-MuroPericolanteNeoDiscovery74.jpg"
+			},
+        {
+            "numero": "0",
+            "progressivo": "75/75",
+            "nome": "Energia dell'Arca",
+            "stadio_evolutivo": "Base",
+            "abilita": [
+                "Nessuna"
+            ],
+            "url": "https://media.pokemoncentral.it/wiki/thumb/6/6b/Energiadell%27ArcaNeoDiscovery75.jpg/180px-Energiadell%27ArcaNeoDiscovery75.jpg"
+        }
+    ]
+},
+    {
         "numeroSet": "9",
         "nomeSet": "Expedition set base",
         "annoUscita": "2002",
